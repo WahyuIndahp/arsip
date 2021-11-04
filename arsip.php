@@ -55,12 +55,6 @@
                 Klik "Lihat" <cite title="Source Title">pada kolom aksi untuk menampilkan surat</cite>
             </figcaption>
         </figure>
-        <form method="POST" action="proses.php" enctype="multipart/form-data">
-            <div class="input-group mb-3">
-                <input type="text" class="form-control" name="keyword" placeholder="Masukkan Keyword Pencarian Surat" aria-label="Recipient's username" aria-describedby="button-addon2">
-                <button class="btn btn-dark" name="cari" type="button" id="button-addon2">Cari</button>
-            </div>
-        </form>
         <div class="table-responsive ">
             <table class="table align-middle table-info table-bordered table-hover">
                 <thead>
